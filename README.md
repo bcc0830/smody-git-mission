@@ -8,7 +8,8 @@
   - [조조그린](/jojogreen.md)
   - [알파](/alpha.md)
   - [토닉](/tonic.md)
-  - 더즈
+  - [더즈](/더즈.md)
+  
 - 프론트엔드
   - [마르코](marco.md)
   - [빅터](./victor.md)
