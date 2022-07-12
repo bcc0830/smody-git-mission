@@ -6,7 +6,7 @@
 
 - 백엔드
   - [조조그린](/jojogreen.md)
-  - 알파
+  - [알파](/alpha.md)
   - [토닉](/tonic.md)
   - [더즈](/더즈.md)
   
